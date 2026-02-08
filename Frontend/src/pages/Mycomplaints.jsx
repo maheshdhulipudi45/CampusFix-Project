@@ -12,7 +12,7 @@ const MyComplaints = () => {
 
   const fetchComplaints = async () => {
     const res = await fetch(
-      `http://localhost:5000/api/complaints/user/${userId}`
+      `https://campusfix-project.onrender.com/api/complaints/user/${userId}`
     );
     const data = await res.json();
     setComplaints(data);

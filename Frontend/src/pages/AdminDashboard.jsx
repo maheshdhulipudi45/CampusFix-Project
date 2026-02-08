@@ -225,7 +225,7 @@ const AdminDashboard = () => {
   });
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/complaints/stats")
+    fetch("https://campusfix-project.onrender.com/api/complaints/stats")
       .then((res) => res.json())
       .then((data) => setStats(data))
       .catch(() => console.log("Failed to load stats"));

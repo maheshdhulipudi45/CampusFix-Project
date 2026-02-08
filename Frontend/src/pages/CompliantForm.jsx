@@ -45,7 +45,7 @@ const Complaint = () => {
       );
       if (image) data.append("image", image);
 
-      const res = await fetch("http://localhost:5000/api/complaints", {
+      const res = await fetch("https://campusfix-project.onrender.com/api/complaints", {
         method: "POST",
         body: data,
       });

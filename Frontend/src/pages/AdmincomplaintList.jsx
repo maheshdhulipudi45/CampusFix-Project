@@ -10,7 +10,7 @@ const AdminComplaintList = () => {
   const [complaints, setComplaints] = useState([]);
 
   const fetchComplaints = async () => {
-    const res = await fetch("http://localhost:5000/api/complaints");
+    const res = await fetch("https://campusfix-project.onrender.com/api/complaints");
     const data = await res.json();
     setComplaints(data);
   };
@@ -20,7 +20,7 @@ const AdminComplaintList = () => {
   }, []);
 
   const updateStatus = async (id, status) => {
- await fetch(`http://localhost:5000/api/complaints/${id}`, {
+ await fetch(`https://campusfix-project.onrender.com/api/complaints/${id}`, {
   method: "PUT",
   headers: { "Content-Type": "application/json" },
   body: JSON.stringify({ status }),
@@ -107,7 +107,7 @@ const AdminComplaintList = () => {
           {/* IMAGE */}
           {c.image && (
             <img
-              src={`http://localhost:5000/uploads/${c.image}`}
+              src={`https://campusfix-project.onrender.com/uploads/${c.image}`}
               alt="complaint"
               style={{
                 width: "200px",
