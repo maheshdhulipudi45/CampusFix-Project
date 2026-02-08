@@ -1,2 +1,18 @@
-# CampusFix-Project
-CampusFix is a web-based Electrical Complaint Management System developed to streamline the reporting, tracking, and resolution of electrical issues within Aditya Educational Institutions. 
+# 💫 About Me:
+I’m a passionate MERN Stack Developer with a strong foundation in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy turning complex problems into clean, user-friendly solutions.<br>I have hands-on experience in developing responsive UIs, REST APIs, authentication systems, and database-driven applications. I’m continuously improving my skills and actively looking for opportunities where I can grow as a developer and contribute to real-world projects. <br><br>Campus Fix is a MERN stack–based web application designed to simplify and streamline campus issue management. The platform allows students to raise complaints related to campus facilities such as electricity, plumbing, maintenance, and infrastructure. Complaints are routed to the appropriate staff or technicians, enabling faster resolution and better communication between students and campus authorities.<br><br>The system supports role-based access for students, electricians/technicians, and administrators, ensuring secure and organized handling of issues. Students can track the status of their complaints in real time, while administrators can monitor, assign, and manage issues efficiently through a centralized dashboard.<br><br>🛠️ Technologies Used<br><br>Frontend: React.js, CSS (Neumorphism & Responsive UI)<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB<br><br>Authentication: Role-based login & authorization<br><br>Tools: Git, GitHub, REST APIs<br><br>✨ Key Features<br><br>Student complaint registration and tracking<br><br>Role-based login (Student, Technician, Admin)<br><br>Real-time complaint status updates<br><br>Admin dashboard for complaint management<br><br>Responsive and user-friendly UI<br><br>Secure backend with RESTful APIs
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maheshdhulipudi45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maheshdhulipudi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheshdhulipudi45@gmail.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maheshdhulipudi45&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=maheshdhulipudi45&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshdhulipudi45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=maheshdhulipudi45&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
